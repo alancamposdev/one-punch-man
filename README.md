@@ -11,7 +11,7 @@ Ela contém informações básicas sobre a série, imagens dos personagens e lin
 
 ## Visualizar a página
 
-A página protótipo pode ser visualizada [aqui](https://alancamposdev.github.io/one-punch-man-fanpage/).
+A página protótipo pode ser visualizada [aqui](https://alancamposdev.github.io/one-punch-man/).
 
 ## Estrutura de Pastas
 
